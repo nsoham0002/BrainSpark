@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Container for header (outside the quiz container) -->
+    <div class="header-container">
+        <h1>BrainSpark</h1>
+        <p>Test your knowledge with our fun quiz!</p>
+    </div>
+
+    <!-- Quiz container -->
+    <div class="quiz-container">
+        <div id="question"></div>
+        <div id="options"></div>
+        <button id="next-btn">Next</button>
+        <div id="score" style="display: none;"></div>
+        <div class="progress-bar-container">
+            <div id="progress-bar" class="progress-bar"></div>
+        </div>
+        <div id="timer"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
