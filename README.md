@@ -1,4 +1,10 @@
-# BrainSpark-
+# BrainSpark
+## INTERN ID: CT08OYC  
+## DOMAIN NAME: FRONT END DEVELOPMENT  
+## DURATION: 4 WEEKS  
+## MENTOR: NEELA SANTOSH KUMAR 
+<img src="https://raw.githubusercontent.com/nsoham0002/BrainSpark/main/assetss/2025-02-21%20(4).png" width="500">
+
 
 A simple yet engaging quiz app that challenges your knowledge across various topics. This app features a timer for each question, a progress bar to track your quiz completion, and a dynamic UI with modern styling. It is designed to provide users with an intuitive and enjoyable experience.
 
