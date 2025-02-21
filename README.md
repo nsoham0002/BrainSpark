@@ -3,7 +3,8 @@
 ## DOMAIN NAME: FRONT END DEVELOPMENT  
 ## DURATION: 4 WEEKS  
 ## MENTOR: NEELA SANTOSH KUMAR 
-<img src="https://raw.githubusercontent.com/nsoham0002/BrainSpark/main/assetss/2025-02-21%20(4).png" width="500">
+<img src="https://raw.githubusercontent.com/nsoham0002/LearnHub/main/assetss/2025-02-21%20(4).png" width="500">
+
 
 
 
